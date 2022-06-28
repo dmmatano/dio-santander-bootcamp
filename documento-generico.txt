@@ -1,6 +1,7 @@
 git init
 git config --global user.email "email"
 git config --global user.name name
+git config --global remote.origin.url 
 git add *
 git commit -m "descricao"
 git remote add origin url
